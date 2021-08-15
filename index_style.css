@@ -1,0 +1,26 @@
+.Fin{
+    color: #2F5597;
+    font-weight: bold;
+}
+.Pay{
+    color:#FFE900;
+    font-weight: bold;
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.logo{
+    font-size: 2rem;
+    padding: 2rem;
+    border-radius: 1rem;
+}
+.home{
+    font-size: 2rem;
+    text-align: center;
+}
+.intro{
+    font-weight: bold;
+}
